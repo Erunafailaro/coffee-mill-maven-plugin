@@ -28,7 +28,7 @@ defaultPhase = LifecyclePhase.COMPILE)
 public class SassCompilerMojo extends AbstractCoffeeMillWatcherMojo {
 
     public static final String SASS_NPM_NAME = "node-sass";
-    public static final String SASS_NPM_VERSION = "0.8.1";
+    public static final String SASS_NPM_VERSION = "3.4.2";
 
     private NPM sass;
 
